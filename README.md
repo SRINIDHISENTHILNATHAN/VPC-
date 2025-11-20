@@ -1,6 +1,6 @@
 ## Ex 4 Deployment and configuration of a Private Cloud in AWS
-## NAME: LINGESWARAN K
-## REG NO: 212222110022
+## NAME: SRINIDHI SENTHIL
+## REG NO: 212222230148
 ## Aim:
 To set up of a Private Cloud in AWS.
 
